@@ -12,6 +12,6 @@ Credits:
 
 * OpenAI Whisper https://github.com/openai/whisper
 * Thanks to [@amrrs](https://github.com/amrrs) for the original notebook.
-* Thanks to [@petewarden(https://github.com/petewarden) for updated notebook based on amrrs' notebook.
+* Thanks to [@petewarden](https://github.com/petewarden) for updated notebook based on amrrs' notebook.
 * Thanks to the gist by [@Korakot Chaovavanich](https://gist.github.com/korakot/c21c3476c024ad6d56d5f48b0bca92be) for the recording function.
 
