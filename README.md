@@ -1,4 +1,4 @@
-# openai-whisper-webapp
+# openai-whisper-demo
 Code for OpenAI Whisper Web App Demo
 
 <a target="_blank" href="[https://colab.research.google.com/github/petewarden/openai-whisper-webapp/blob/main/OpenAI_Whisper_ASR_Demo.ipynb](https://colab.research.google.com/github/nancychenxizhong/openai-whisper-webapp/blob/modify-recording/saving/translate/OpenAI_Whisper_ASR_Demo.ipynb?authuser=1#scrollTo=kosakhNmxb7A)">
